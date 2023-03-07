@@ -8,6 +8,7 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
+        System.out.println("master远程库被修改");
         System.out.println("master提交远程库");
         System.out.println("master提交");
         System.out.println("dev冲突提交");
