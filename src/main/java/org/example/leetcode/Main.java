@@ -8,6 +8,7 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
+        System.out.println("第二次提交");
         oneToN n = new oneToN();
         int[] x = n.printNumbers(3);
         for (int i : x) {
